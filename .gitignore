@@ -1,0 +1,9 @@
+target/
+bin/
+*.class
+highscore.txt
+.DS_Store
+.idea/
+.settings/
+.classpath
+.project
